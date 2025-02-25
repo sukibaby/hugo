@@ -1,0 +1,23 @@
+; Example ini file for custom control mapping on Linux.
+; The scancode for your key corresponds to
+; For players 2-4, you can copy the structure below,
+; and replace the 1 with that player's number.
+; (so, for example, Player 2 Select would be SELECT2)
+;
+; For example, this would set the I button to be "N"
+; and the II button to be "M".
+; [config1]
+; I1=0x31
+; II1=0x32
+
+[config1]
+UP1=
+DOWN1=
+LEFT1=
+RIGHT1=
+I1=
+II1=
+SELECT1=
+START1=
+AUTOI1=
+AUTOII1=
