@@ -1,8 +1,8 @@
 # Hu-Go! PC Engine/TurboGrafx-16 Emulator
 
-My personal fork based on rofl0r's fork. ARM64 binaries provided here.
+My personal fork based on rofl0r's fork. Mostly exists to provide patches back to rofl0r's fork, so please refer to that.
 
-![Screenshot from 2025-02-25 04-34-09](https://github.com/user-attachments/assets/e8e53920-1a78-406f-89dc-ec07261c7cab)
+I have ARM64 binaries provided here however.
 
 ![Screenshot from 2025-02-25 04-37-04](https://github.com/user-attachments/assets/5255ca68-2b58-4937-96b1-0adcc933baad)
 
